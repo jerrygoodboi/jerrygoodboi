@@ -21,6 +21,6 @@ int main(){
 		}
 		}}
 	else{cout<<"Enter Six Digit Register Number Noob!\n";}
-	system("wget -i /home/potatochips/Programs/file.txt");
+	system("wget -i /data/data/com.termux/files/home/file.txt");
 	return 0;}
 
