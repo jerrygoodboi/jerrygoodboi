@@ -21,6 +21,6 @@ int main(){
 		}
 		}}
 	else{cout<<"Enter Six Digit Register Number Noob!\n";}
-	system("wget -i /data/data/com.termux/files/home/file.txt");
+	system("a=$(pwd) && wget -i $a/file.txt");
 	return 0;}
 
