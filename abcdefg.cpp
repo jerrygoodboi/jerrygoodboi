@@ -22,5 +22,7 @@ int main(){
 		}}
 	else{cout<<"Enter Six Digit Register Number Noob!\n";}
 	system("a=$(pwd) && wget -i $a/file.txt");
+	system("b=$(sed -n 1p file.txt | cut -c 2-7) && ls *$b > ab.txt && c=$(cut -c 1-8 ab.txt) && echo $c");
+	       
 	return 0;}
 
