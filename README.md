@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ===> https://www.reddit.com/user/JerryRider https://www.facebook.com/jerry.ronsunny.3/
+- 📫 How to reach me ===> https://www.reddit.com/user/JerryRider
 -                        
 
 <!---
